@@ -1,0 +1,9 @@
+textarea {
+    min-height: 400px;
+}
+
+.emailstyle {
+    border: 2px, solid, black;
+    display: flex;
+    flex-direction: row;
+}
